@@ -1,5 +1,6 @@
 Cyclone Project
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+
+A game where an LED circles around a ring where you have to press a button at exactly the right time so that you can move onto the next level.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

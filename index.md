@@ -35,7 +35,7 @@ My first milestone was to get the LED and the button connected to the Arduino. F
 | Alligator clips   | 2 | $6.19  |  https://www.amazon.com/WGGE-WG-026-Pieces-Colors-Alligator/dp/B06XX25HFX/ref=sr_1_2_sspa?  |
 |  Bread board Button  |  1  | $6.99 | https://www.amazon.com/MakerSpot-Momentary-Tactile-Breadboard-Friendly/dp/B06XT3FLVM/ref=sr_1_13?
 
-
+# Code
 ```cp
 <#include "FastLED.h"
 #define NUM_LEDS 40

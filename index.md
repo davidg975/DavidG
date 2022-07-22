@@ -9,6 +9,12 @@ A game where an LED circles around a ring where you have to press a button at ex
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
 
+Preview attachment IMG-8014.jpg
+
+IMG-8014.jpg
+1.4 MB
+
+# Final Project
 Preview attachment IMG-8015.jpg
 
 IMG-8015.jpg

@@ -31,7 +31,7 @@ My first milestone was to get the LED and the button connected to the Arduino. F
 | Neo Pixel LED  | 1  | $64.99  | (https://www.amazon.com/Adafruit-Indust-Digital-Weatherproof-LED-1m/dp/B01KHWGVJ4/ref=sr_ |
 | Breadboard  | 1 |  $6.75  | https://www.amazon.com/BB400-Solderless-Plug-BreadBoard-tie-points/dp/B0040Z1ERO |
 | Micro Servo | 1 | $5.95 | https://www.adafruit.com/product/169  |
-| Jumper Wires  | 6 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
+| Jumper Wires  | 5 | 10¢/wire  |  https://www.amazon.com/Breadboard-Jumper-Wire-75pcs-pack/dp/B0040DEI9M |
 | Arduino Uno Board  | 1  | $27.60  | https://store-usa.arduino.cc/products/arduino-uno-rev3?selectedStore=us  |
 | Alligator clips   | 2 | $6.19  |  https://www.amazon.com/WGGE-WG-026-Pieces-Colors-Alligator/dp/B06XX25HFX/ref=sr_1_2_sspa?  |
 |  Bread board Button  |  1  | $6.99 | https://www.amazon.com/MakerSpot-Momentary-Tactile-Breadboard-Friendly/dp/B06XT3FLVM/ref=sr_1_13?

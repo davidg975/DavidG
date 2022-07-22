@@ -23,6 +23,7 @@ My final Milestone is the final product of the whole project. This includes the 
 My first milestone was to get the LED and the button connected to the Arduino. First, I made sure to have the LED working and focused first on just getting that to light up. Next, I worked on getting the button to also be connected to the Arduino. Then I ran the code that I needed so that the LED would light up and change colors at the click of the button. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1v9f48WHBQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Bill Of Materials
 
 | Item | Qty | Price | Where to Buy |

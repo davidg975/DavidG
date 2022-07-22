@@ -258,3 +258,7 @@ void winAll(){
   
 }>
 ```
+
+# Caution
+- When doing this project be very careful with the materials and alway make sure you double check what your doing before you do it especially with the LED light, becaue if you do something and then later realize it was wrong, for example, cutting the LED in the wrong way, there is no going back, so double check.
+- If something isn't working and is frustrating you it is probably the wiring so always check that if something isn't working.

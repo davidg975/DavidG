@@ -1,12 +1,19 @@
 Cyclone Project
 
-A game where an LED circles around a ring where you have to press a button at exactly the right time so that you can move onto the next level.
+A game where an LED circles around a ring where you have to press a button at exactly the right time so that you can move onto the next level, where each level gets harder, more precise and faster.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | David G | Nest+M | Mechanical Engineering | Incoming Sophmore
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
+
+
+Preview attachment IMG-8015.jpg
+
+IMG-8015.jpg
+2.3 MB
+
 
 # Demo Night
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K6TwVG1GlWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

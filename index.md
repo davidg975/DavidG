@@ -9,17 +9,14 @@ A game where an LED circles around a ring where you have to press a button at ex
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
 
 
-Preview attachment IMG-8014.jpg
+![IMG-8014](https://user-images.githubusercontent.com/108947566/180487507-7f81c515-f3e9-4377-8db0-900faef3efe2.jpg)
 
-IMG-8014.jpg
-1.4 MB
+
+
 
 # Final Project
-Preview attachment IMG-8015.jpg
 
-IMG-8015.jpg
-2.3 MB
-
+![IMG-8015](https://user-images.githubusercontent.com/108947566/180487612-121e387b-4c6b-4839-b8a1-962420e73fe8.jpg)
 
 # Demo Night
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K6TwVG1GlWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
